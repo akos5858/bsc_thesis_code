@@ -1,4 +1,4 @@
-# activation functions
+# activation functions 
 sigmoid <- function(x) 1 / (1 + exp(-x))
 tanh_fn <- function(x) tanh(x)
 relu <- function(x) ifelse(x > 0, x, 0)
