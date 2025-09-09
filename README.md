@@ -1,5 +1,5 @@
 This is the GitHub Repository for my Bachelor's thesis, **Neural network-based modeling and solving of epidemic spreads**.
-
+(https://www.math.elte.hu/thesisupload/thesisfiles/2025bsc_mat3y-gncgun.pdf)
 - `bsc_thesis_code.ipynb` contains the neural networks,  
 - `sindy.ipynb` the SINDy models,  
 - the rest of the files were used to figure creation,  
